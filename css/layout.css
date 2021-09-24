@@ -232,9 +232,9 @@ ul#nav li a:hover { background-color: transparent ; color:#ffd300; }
    height: 200px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 58.33333% ; }
 #about .download {
-   width: 58.33333%;
+   width: 41.66667%;
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
