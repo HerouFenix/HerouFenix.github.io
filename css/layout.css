@@ -55,7 +55,7 @@ header video {
   -moz-transform: translateX(-50%) translateY(-56%);
   -webkit-transform: translateX(-50%) translateY(-56%);
   transform: translateX(-50%) translateY(-56%);
-
+  outline: none;
 }
 
 
