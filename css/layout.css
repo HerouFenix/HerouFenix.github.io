@@ -39,6 +39,7 @@ header {
    text-align: center;
    overflow: hidden;
   background-color: black;
+  line-height: 0;
 
 }
 header video {
