@@ -282,6 +282,20 @@ ul#nav li a:hover {
   font-size: 20px;
 }
 
+
+#about .GoToPortfolio .button {
+  margin-top: 6px;
+  background: #444;
+}
+#about .GoToPortfolio .button:hover {
+  background: #fff;
+  color: #2b2b2b;
+}
+#about .GoToPortfolio .button i {
+  margin-right: 15px;
+  font-size: 20px;
+}
+
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
 /* ------------------------------------------------------------------ */
